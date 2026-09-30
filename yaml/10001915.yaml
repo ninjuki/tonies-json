@@ -25,4 +25,9 @@ data:
   - La course aux étoibulles
   - Le flocon-bonheur
   - La Fête des Racines
-  ids: []
+  ids:
+  - audio-id: 1754471562
+    hash: c213ab24b69c2e45e05b4e2ff19077ed8d2f0097
+    size: 48175745
+    tracks: 10
+    confidence: 0

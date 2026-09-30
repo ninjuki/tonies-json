@@ -17,4 +17,9 @@ data:
   track-desc:
   - Bruit blanc de l'océan 1
   - Bruit blanc de l'océan 2
-  ids: []
+  ids:
+  - audio-id: 1770816077
+    hash: a0cce050bd00595acb918e6eb22aa1258a95a25b
+    size: 80146045
+    tracks: 2
+    confidence: 0

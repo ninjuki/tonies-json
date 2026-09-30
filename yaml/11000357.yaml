@@ -25,4 +25,9 @@ data:
   - Interlude
   - La Relique en or
   - Conclusion
-  ids: []
+  ids:
+  - audio-id: 1737708615
+    hash: 5a93149ea27512d8f001636f37f7d5c794f421aa
+    size: 55722311
+    tracks: 10
+    confidence: 0

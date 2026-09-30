@@ -20,4 +20,9 @@ data:
   - Petit Coup de Main (chanson)
   - Le courrier mélangé de Mickey (histoire)
   - La Maison de Mickey le Martien (histoire)
-  ids: []
+  ids:
+  - audio-id: 1785835008
+    hash: 772d434c5dc62f8a7344d473ac05967ba2cfa51d
+    size: 28418796
+    tracks: 5
+    confidence: 0

@@ -25,4 +25,9 @@ data:
   - Interlude
   - La Pat' Patrouille se jette à l'eau
   - Conclusion
-  ids: []
+  ids:
+  - audio-id: 1717598439
+    hash: 3f742fcbaeb6155a6323d7ff7add3756b0e9f04c
+    size: 38021873
+    tracks: 10
+    confidence: 0

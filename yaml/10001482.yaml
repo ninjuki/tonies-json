@@ -20,4 +20,9 @@ data:
   - Pas de cirque pour les éléphants
   - Eucalyptus, mon amour
   - L'esprit de la forêt
-  ids: []
+  ids:
+  - audio-id: 1682062248
+    hash: 8568f7a2a0ef3a9e0e7cafede509f4c2912996a1
+    size: 47698920
+    tracks: 5
+    confidence: 0

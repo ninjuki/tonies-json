@@ -22,4 +22,9 @@ data:
   - Pocahontas - Partie 4 (inclus la chanson "L'air du vent")
   - Pocahontas - Partie 5
   - Pocahontas - Partie 6 (inclus la chanson "Des sauvages II")
-  ids: []
+  ids:
+  - audio-id: 1735306183
+    hash: 2775ce2298523235ac7214cb4a223302143dea23
+    size: 43754547
+    tracks: 6
+    confidence: 0
